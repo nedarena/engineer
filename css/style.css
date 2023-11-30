@@ -372,7 +372,7 @@ body {
 
 .presenters-name {
     background: var(--white);
-    border-radius: 0px 20px 0px 20px;
+    border-radius: 20px 0px 20px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
