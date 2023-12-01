@@ -494,6 +494,16 @@ body {
         grid-column: 2/4;
         grid-row: 6/9;
     }
+
+    .presenters-img {
+        object-position: left -40px;
+    }
+}
+
+@media (max-width: 870px) {
+    .presenters-img {
+        object-position: center;
+    }
 }
 
 @media (max-width: 450px) {
