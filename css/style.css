@@ -808,6 +808,7 @@ body {
 .questions__form-textarea {
     height: 100px;
     font-family: 'Ubuntu', sans-serif;
+    resize: none;
 }
 
 .questions__form-input:focus,
